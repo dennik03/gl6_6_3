@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bank_Client.cs" />
+    <Compile Include="Iaccount.cs" />
+    <Compile Include="Ibonus.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Shop_Client.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
