@@ -9,8 +9,6 @@ namespace gl6_6_3
 
     internal class Program
     {
-     
-      
         static void Main(string[] args)
         {
             Bank_Client client = new Bank_Client(
